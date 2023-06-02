@@ -1,4 +1,4 @@
-# estacionamento-front
+# Calculadora-app
 
 ## Project setup
 ```
